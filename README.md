@@ -1,12 +1,11 @@
 # Demo:
-https://mygitapp-ee68c.web.app
-
+## https://mygitapp-ee68c.web.app
 
 ## TO-DO :
 
-### `npm start`
+### 1. `npm start`
 
-### Add Firebase config on `Config/firebaseConfig.js` file
+### 2. Add Firebase config on `Config/firebaseConfig.js` file
 
-### Enable E-mail Password Authentication of firebase
+### 3. Enable E-mail Password Authentication on firebase
 
