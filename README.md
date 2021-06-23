@@ -3,7 +3,7 @@
 
 ## TO-DO :
 
-### 1. `npm start`
+### 1. `npm install`
 
 ### 2. Add Firebase config on `Config/firebaseConfig.js` file
 
